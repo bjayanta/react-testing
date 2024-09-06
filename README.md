@@ -12,7 +12,7 @@ Session:
 ## Unit Testing
 
 - (Done) What is unit testing?
-- Setting up Vitest
+- (Done) Setting up Vitest
 - Testing utilities and helpers
 - Testing a simple component
 - Testing inputs and outputs
