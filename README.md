@@ -4,10 +4,10 @@ Session:
 
 ## Introduction
 
-- Why testing?
-- Source code under the video
-- Setting up project
-- What editor to use?
+- (Done) Why testing?
+- (Done) Source code under the video
+- (Done) Setting up project
+- (Done) What editor to use?
 
 ## Unit Testing
 
