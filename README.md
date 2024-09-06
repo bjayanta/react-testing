@@ -11,7 +11,7 @@ Session:
 
 ## Unit Testing
 
-- What is unit testing?
+- (Done) What is unit testing?
 - Setting up Vitest
 - Testing utilities and helpers
 - Testing a simple component
@@ -42,3 +42,21 @@ Real React project - E2E testing user interactions
 ## Homework
 
 Homework
+
+## Links
+
+- [What is unit testing?](https://en.wikipedia.org/wiki/Unit_testing)
+- [We need testing library](https://testing-library.com/)
+
+## Setting up Vitest (Commends)
+
+> npm install vitest jsdom @testing-library/jest-dom @testing-library/react @testing-library/user-event -D
+
+## Add instruction into "package.json"
+
+```json
+"scripts": {
+    ...
+    "test": "vitest"
+},
+```
